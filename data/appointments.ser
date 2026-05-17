@@ -1,0 +1,6 @@
+PatientID,Name,Age,Phone,Email,Address,MedicalHistory,TotalSpent,RegistrationDate
+PAT1001,John Doe,32,9876543210,john.doe@email.com,123 Main Street Mumbai,None,0.0,2024-01-15
+PAT1002,Jane Smith,28,9876543211,jane.smith@email.com,456 Park Avenue Delhi,Allergic to Penicillin,2500.0,2024-01-20
+PAT1003,Robert Johnson,45,9876543212,robert.j@email.com,789 Lake Road Bangalore,Hypertension,1500.0,2024-02-01
+PAT1004,Emily Davis,35,9876543213,emily.davis@email.com,321 Hill Street Chennai,Diabetes Type 2,3200.0,2024-02-10
+PAT1005,Michael Brown,52,9876543214,michael.brown@email.com,654 Forest Ave Kolkata,Asthma,800.0,2024-02-15

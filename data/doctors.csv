@@ -1,0 +1,6 @@
+DoctorID,Name,Age,Phone,Email,Specialization,ConsultationFee,Rating,YearsOfExperience,Available
+DOC2001,Dr. Rajesh Kumar,48,9988776655,rajesh.kumar@meditrack.com,CARDIOLOGY,1800.0,4.9,20,true
+DOC2002,Dr. Priya Sharma,42,9988776656,priya.sharma@meditrack.com,NEUROLOGY,2200.0,4.8,15,true
+DOC2003,Dr. Amit Patel,39,9988776657,amit.patel@meditrack.com,ORTHOPEDICS,1600.0,4.7,12,true
+DOC2004,Dr. Sneha Reddy,45,9988776658,sneha.reddy@meditrack.com,PEDIATRICS,1400.0,4.9,18,true
+DOC2005,Dr. Vikram Singh,51,9988776659,vikram.singh@meditrack.com,DERMATOLOGY,1700.0,4.8,22,false
