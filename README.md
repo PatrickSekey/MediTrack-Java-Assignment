@@ -19,5 +19,5 @@ MediTrack is a comprehensive clinic management system built in Java that manages
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/MediTrack.git
+git clone https://github.com/Patrick.sekey/MediTrack.git
 cd MediTrack
